@@ -1706,7 +1706,188 @@ body {
   }
 }
 .cid-quvjJpeAfK {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/jumbotron1.jpg");
+}
+.cid-quvzdlvrbO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-quvzdlvrbO h2 {
+  text-align: left;
+}
+.cid-quvzdlvrbO h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-quvzdlvrbO p {
+  color: #767676;
+  text-align: left;
+}
+.cid-quvzdlvrbO .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-quvzdlvrbO .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-quvzdlvrbO .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-quvzdlvrbO .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-quvzdlvrbO .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-quvzdlvrbO .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-quvzdlvrbO .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-quvzdlvrbO .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-quvwOJ40nA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-quvwOJ40nA h3 {
+  font-weight: 300;
+}
+.cid-quvwOJ40nA .card-img {
+  width: initial;
+}
+.cid-quvwOJ40nA .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-quvwOJ40nA .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+}
+.cid-quvwOJ40nA .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-quvwOJ40nA .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-quvwOJ40nA .mbr-text {
+  color: #767676;
+}
+.cid-quvwOJ40nA .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.cid-quvzQohsuo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-quvzQohsuo .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-quvzQohsuo .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-quvzQohsuo .card_cont {
+  -o-transition: all .5s;
+  -ms-transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  background-color: #eee;
+}
+.cid-quvzQohsuo .card-front {
+  z-index: 2;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.cid-quvzQohsuo .card-front img {
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
+.cid-quvzQohsuo .card_back {
+  width: 100%;
+  height: 100%;
+  padding: 30px 30px;
+  color: #ffffff;
+  background-color: #55b4d4;
+  z-index: 1;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+.cid-quvzQohsuo .card {
+  min-height: 300px;
+}
+.cid-quvzQohsuo .card:hover .card-front {
+  z-index: 1;
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.cid-quvzQohsuo .card:hover .card_back {
+  z-index: 2;
+  -o-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+.cid-quvzQohsuo .builderCard .card_back {
+  border-bottom-left-radius: 100px;
+}
+.cid-quvzQohsuo .builderCard .card_cont {
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidd;
+  -moz-backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
 }
 .cid-quvkCR9WMn {
   padding-top: 90px;
