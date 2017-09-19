@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -22,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Bitter', serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -36,7 +35,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -581,8 +580,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  opacity: 0 !important;
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -1791,7 +1790,7 @@ body {
 }
 .cid-quB1jLNZNc {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background: #ecf0f1;
 }
 .cid-quB1jLNZNc .video-block {
@@ -1837,7 +1836,7 @@ body {
   -webkit-flex-direction: column;
 }
 .cid-quB4SGVKLi {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ecf0f1;
 }
@@ -2080,9 +2079,6 @@ body {
 .cid-quvkCR9WMn .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
-}
-.cid-quvkCR9WMn .team-item .item-caption {
-  background: #efefef;
 }
 .cid-quN0MCH3Kz {
   padding-top: 45px;
