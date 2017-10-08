@@ -44,9 +44,7 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "path": "@PROJECT_PATH@",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
