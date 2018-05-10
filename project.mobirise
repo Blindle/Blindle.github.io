@@ -49,9 +49,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Ema%20Suriano/Desktop/blindle"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
